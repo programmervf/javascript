@@ -1,0 +1,2 @@
+# javascript
+scripts about javascripts
